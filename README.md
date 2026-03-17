@@ -14,4 +14,4 @@ Proyek ini dibuat untuk memenuhi tugas praktikum GTI Pertemuan 2. Program ini me
 
 ### 1. Screenshot Bentuk Mobil Sederhana
 
-![Screenshot Mobil](mobil.png)
+![Screenshot Mobil](Screenshot 2026-03-17 110618.png)
