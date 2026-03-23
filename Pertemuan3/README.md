@@ -23,4 +23,4 @@ Untuk menggerakkannya, terdapat dua cara, yaitu secara manual dengan mengontrol 
 
 ## SCREENSHOT
 1. MENUNJUK
-   ![alt text]([assets/gambar.png](https://github.com/ilhamraffi/PraktikumGTI/blob/main/Pertemuan3/TUGAS%20BUAT%20TANGAN/menunjuk.png))
+  ![menunjuk](menunjuk.png)
