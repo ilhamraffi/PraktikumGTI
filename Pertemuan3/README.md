@@ -23,4 +23,4 @@ Untuk menggerakkannya, terdapat dua cara, yaitu secara manual dengan mengontrol 
 
 ## SCREENSHOT
 1. MENUNJUK
- ![Tampilan](mengerakan_lengan.png)
+![Tampilan](./Mengerakan%20lengan.png)
