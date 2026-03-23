@@ -23,4 +23,4 @@ Untuk menggerakkannya, terdapat dua cara, yaitu secara manual dengan mengontrol 
 
 ## SCREENSHOT
 1. MENUNJUK
-  ![menunjuk](menunjuk.png)
+ ![Tampilan Program](TUGAS_BUAT_TANGAN/menunjuk.png)
