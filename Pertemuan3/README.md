@@ -23,6 +23,4 @@ Untuk menggerakkannya, terdapat dua cara, yaitu secara manual dengan mengontrol 
 
 ## SCREENSHOT
 1. MENUNJUK
- <p align="center">
-  <img src="mengerakan_lengan.png" width="500"/>
-</p>
+ ![Tampilan](mengerakan_lengan.png)
