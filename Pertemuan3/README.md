@@ -23,4 +23,6 @@ Untuk menggerakkannya, terdapat dua cara, yaitu secara manual dengan mengontrol 
 
 ## SCREENSHOT
 1. MENUNJUK
- ![Tampilan Program](TUGAS_BUAT_TANGAN/menunjuk.png)
+ <p align="center">
+  <img src="mengerakan_lengan.png" width="500"/>
+</p>
