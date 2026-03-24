@@ -10,4 +10,4 @@ Pada praktikum kali ini kita ditugaskan untuk membuat sebuah mobil
 
 ## SCREENSHOT
 
-![m](mobil/Mobil.png)
+![m](Mobil.png)
