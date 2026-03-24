@@ -26,3 +26,8 @@ Untuk menggerakkannya, terdapat dua cara, yaitu secara manual dengan mengontrol 
 
    
 ![m](TUGAS_BUAT_TANGAN/menunjuk.png)
+
+2. MENGERAKAN LENGAN
+
+![N](TUGAS_BUAT_TANGAN/Menggerakan lengan.png)
+
